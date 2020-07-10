@@ -1,5 +1,6 @@
 # Camera
 Camera API assignment. Kudos to foysalit for providing the tutorial found here:
+https://www.codementor.io/@foysalit/building-a-camera-app-with-react-native-r8up5685v
 
 Code ended up looking too similar but I don't know how to edit it without breaking it aside from changing the variable name.
 
